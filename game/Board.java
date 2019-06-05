@@ -1,9 +1,6 @@
 package game;
 
-import java.util.Random;
 import java.util.Scanner;
-import cardStack.Card;
-
 public class Board //Class without main method
 {
     public static int gameWin=1; //Integer Variable

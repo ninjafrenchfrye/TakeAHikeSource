@@ -1,7 +1,6 @@
-package cardStack;
+package game;
 
 import java.util.Scanner;
-
 import game.Board;
 
 public class Card

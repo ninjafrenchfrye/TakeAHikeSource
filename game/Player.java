@@ -2,7 +2,6 @@ package game;
 
 import java.util.Scanner;
 import javax.swing.JFrame;
-import cardStack.Card; //Import and use class
 
 public class Player {
 
